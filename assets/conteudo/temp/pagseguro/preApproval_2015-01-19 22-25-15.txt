@@ -1,0 +1,38 @@
+SimpleXMLElement Object
+(
+    [name] => Assinatura do plano: Plano Férias
+    [code] => 9AA350F970701E5774BFDFBEBD660AE1
+    [date] => 2015-01-19T22:24:07.000-02:00
+    [tracker] => C51E44
+    [status] => PENDING
+    [reference] => assinatura-96g2w2g243d2s2q2r213p2u2w2r2c2l2c2m4e2f4p333u2n3t4
+    [lastEventDate] => 2015-01-19T22:24:53.000-02:00
+    [charge] => AUTO
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Comprador de Testes
+            [email] => c42888601315962057368@sandbox.pagseguro.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 99999999
+                )
+
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA TALMUD THORA
+                    [number] => 296
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Bom Retiro
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 01126020
+                )
+
+        )
+
+)

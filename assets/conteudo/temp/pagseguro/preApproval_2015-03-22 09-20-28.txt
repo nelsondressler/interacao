@@ -1,0 +1,35 @@
+SimpleXMLElement Object
+(
+    [name] => Assinatura do plano: Plano Luz
+    [code] => 5F6B47CE80806367745D4FAEB2397A61
+    [date] => 2015-01-19T14:10:10.000-02:00
+    [tracker] => C73ECC
+    [status] => CANCELLED_BY_RECEIVER
+    [reference] => assinatura-96g2w2g243d2t2q2r2t2x2u2w2r2c2l2c2m4e2f4p333t2n3t4
+    [lastEventDate] => 2015-03-22T09:20:11.000-03:00
+    [charge] => AUTO
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => SONIA MARIA BONICI
+            [email] => nanibonici@gmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 982310841
+                )
+
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RODOVIA RAPOSO TAVARES 3175 - CONDOMINIO LABITARE
+                    [number] => 3175
+                    [complement] => Ap 72D
+                    [district] => Jardim Olympia
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 05573900
+                )
+
+        )
+
+)

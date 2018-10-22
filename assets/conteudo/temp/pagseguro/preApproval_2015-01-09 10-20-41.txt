@@ -1,0 +1,38 @@
+SimpleXMLElement Object
+(
+    [name] => Assinatura dos planos: Plano Férias, Plano Luz, Plano Arte
+    [code] => 724BCF3C515154F224DC9F9C76598A88
+    [date] => 2015-01-09T10:18:14.000-02:00
+    [tracker] => 6EDE26
+    [status] => PENDING
+    [reference] => assinatura-96g2w2g243d2s2q2r213p2u2w2r2c2l2c2q2e2f4p3y2m224o23334r264a2z3a2y2r3c4c2x2t2641344u2w2g2q2d2n4f203f2x2y2i2w4
+    [lastEventDate] => 2015-01-09T10:20:25.000-02:00
+    [charge] => AUTO
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Comprador de Testes
+            [email] => c42888601315962057368@sandbox.pagseguro.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 99999999
+                )
+
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA TALMUD THORA
+                    [number] => 296
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Bom Retiro
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 01126020
+                )
+
+        )
+
+)

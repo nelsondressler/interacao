@@ -1,0 +1,64 @@
+SimpleXMLElement Object
+(
+    [date] => 2015-03-19T11:09:08.000-03:00
+    [code] => FFC1E8E1-599E-4A00-BD6E-9A7E0AEB1409
+    [reference] => assinatura-96g2w2g243d2t2q2r2t2x2u2w2r2c2l2c2m4e2f4p333t2n3t4
+    [type] => 11
+    [status] => 7
+    [cancellationSource] => EXTERNAL
+    [lastEventDate] => 2015-03-19T11:09:20.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 102
+        )
+
+    [grossAmount] => 108.00
+    [discountAmount] => 0.00
+    [feeAmount] => 4.71
+    [netAmount] => 103.29
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 001
+                    [description] => Assinatura do plano: Plano Luz
+                    [quantity] => 1
+                    [amount] => 108.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => SONIA MARIA BONICI
+            [email] => nanibonici@gmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 982310841
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RODOVIA RAPOSO TAVARES 3175 - CONDOMINIO LABITARE
+                    [number] => 3175
+                    [complement] => Ap 72D
+                    [district] => Jardim Olympia
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 05573900
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)

@@ -1,0 +1,104 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />@CHARSET "ISO-8859-1";
+
+/*
+CSS para o layout do topo
+*/
+
+#texto_login {
+  color: #ffffff;
+  font: 11px Arial;
+}
+
+#topo_titulo {
+  color: #2274ae;
+  font: 25px Arial;
+  margin-left: 10px;
+}
+
+#topo_menu_divisor {
+  float: left;
+  width: 1px;
+  height: 20px;
+  background-image: url('../img/menu_topo_divisor.gif');
+  background-repeat: no-repeat;
+  background-position:center;
+  margin: 0px 5px 0px 5px;
+}
+
+#topo_menu {
+  padding-left: 5px;
+}
+.topo_menu_usuario {
+  background-image: url('../img/ico_usuarios_a.gif');
+}
+.topo_menu_usuario:hover {
+  background-image: url('../img/ico_usuarios_b.gif');
+}
+.topo_menu_web {
+  background-image: url('../img/ico_web_a.gif');
+}
+.topo_menu_web:hover {
+  background-image: url('../img/ico_web_b.gif');
+}
+.topo_menu_config {
+  background-image: url('../img/ico_config_a.gif');
+}
+.topo_menu_config:hover {
+  background-image: url('../img/ico_config_b.gif');
+}
+.topo_menu_sair {
+  background-image: url('../img/ico_sair_a.gif');
+}
+.topo_menu_sair:hover {
+  background-image: url('../img/ico_sair_b.gif');
+}
+.topo_menu_usuario, .topo_menu_web, .topo_menu_config, .topo_menu_sair {
+  float: left;
+  padding: 2px 0px 2px 20px;
+  background-repeat: no-repeat;
+  color: #333333;
+  font: 12px Arial;
+  text-decoration: none;
+}
+.topo_menu_usuario:hover, .topo_menu_web:hover, .topo_menu_config:hover, .topo_menu_sair:hover {
+  background-repeat: no-repeat;
+  color: #003366;
+  text-decoration: underline;
+}
+
+
+/*
+CSS para o navegador breadcrumb
+*/
+#topo_nav {
+  float: left;
+  width: 100%;
+  line-height: normal;
+  font: 11px Arial;
+  margin: 15px 0px 0px 15px;
+}
+#topo_nav ul {
+  margin: 0;
+  padding: 0px;
+  list-style: none;
+}
+#topo_nav li {
+  float: left;
+  background: url("../img/nav_a.gif") no-repeat left top;
+  margin: 0px 0px 0px 2px;
+  padding: 0px 0px 0px 5px;
+}
+#topo_nav a {
+  display: block;
+  background: url("../img/nav_b.gif") no-repeat right top;
+  padding: 5px 5px 7px 0px;
+  color: #333333;
+  text-decoration: none;
+}
+#topo_nav a:hover {
+  color: #003366;
+  text-decoration: none;
+}
+#topo_nav_voltar {
+  float: right;
+}

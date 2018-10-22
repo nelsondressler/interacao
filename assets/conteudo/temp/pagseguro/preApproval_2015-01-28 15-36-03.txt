@@ -1,0 +1,38 @@
+SimpleXMLElement Object
+(
+    [name] => Assinatura do plano: Plano Luz
+    [code] => A4D371600909DF4DD4A6CF95E64D8E11
+    [date] => 2015-01-28T15:35:24.000-02:00
+    [tracker] => 0948FA
+    [status] => ACTIVE
+    [reference] => assinatura-96g2w2g243d2t2q2r2t2x2u2w2r2c2l2c2m4e2f4p333x2n3t4
+    [lastEventDate] => 2015-01-28T15:35:52.000-02:00
+    [charge] => AUTO
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => CRISTIANO P PRATES
+            [email] => c.prates@yahoo.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 41
+                    [number] => 33620869
+                )
+
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA PROFESSORA DOROTEA SPAK CHOMA
+                    [number] => 200
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Tarumã
+                    [city] => CURITIBA
+                    [state] => PR
+                    [country] => BRA
+                    [postalCode] => 82530370
+                )
+
+        )
+
+)

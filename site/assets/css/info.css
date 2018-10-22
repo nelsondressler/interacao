@@ -1,0 +1,20 @@
+/* */
+
+
+
+
+
+ul#topicos { display:block; width:558px; margin-bottom:0; margin-top:5px;}
+ul#topicos li { list-style-type:none; font-family: Arial, Helvetica, sans-serif;font-size: 12px;color:#375F90;  }
+ul#topicos li h5 {margin-bottom:0; padding:0px 0px; cursor:pointer; margin-top:8px; }
+ul#topicos li h5.ativo { background-image:url(../../img/setaExpd.gif); background-position:5px center; }
+ul#topicos div {  display:none; padding:10px; }
+ul#topicos div p { font-family: Arial, Helvetica, sans-serif;font-size: 12px;color:#8A6D20; font-weight:normal; margin:0 0 0px; }
+ul#topicos div ul { display:block; margin-left:0px; margin:0px; }
+ul#topicos div ul li {padding-left:0px; margin-left:0px; font-size:1em; }
+ul#topicos div ol li { font-size:1em; list-style-type:decimal; }
+ul#topicos div ul.listAlpha li { background:none;  list-style-position:inside; padding-left:0; }
+
+ul.perguntas li h5 { font-size:12px; /*text-transform:none !important;*/ }
+hr {color:#999999;}
+

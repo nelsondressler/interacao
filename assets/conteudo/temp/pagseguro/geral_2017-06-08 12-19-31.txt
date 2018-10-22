@@ -1,0 +1,34 @@
+SimpleXMLElement Object
+(
+    [date] => 2017-06-08T12:19:29.000-03:00
+    [code] => BD0F85C7-BEA6-496F-8BE8-8FF6A1CA2068
+    [type] => 1
+    [status] => 3
+    [lastEventDate] => 2017-06-08T12:19:30.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 101
+        )
+
+    [grossAmount] => 400.00
+    [discountAmount] => 0.00
+    [feeAmount] => 17.96
+    [netAmount] => 382.04
+    [extraAmount] => 0.00
+    [escrowEndDate] => 2017-07-08T12:19:29.000-03:00
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 1
+                    [description] => Venda digitada
+                    [quantity] => 1
+                    [amount] => 400.00
+                )
+
+        )
+
+)

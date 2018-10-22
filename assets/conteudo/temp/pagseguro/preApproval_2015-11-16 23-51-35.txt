@@ -1,0 +1,35 @@
+SimpleXMLElement Object
+(
+    [name] => Assinatura do plano: Plano Arte
+    [code] => 5CD6D2E54848BA4664FC1FB771561C91
+    [date] => 2015-11-16T23:45:35.000-02:00
+    [tracker] => EBC2BE
+    [status] => PENDING
+    [reference] => assinatura-96g2w2g243d2u2q2v2x2n2w2w2d2m2b2n4b223r3c4z2b266
+    [lastEventDate] => 2015-11-16T23:51:34.000-02:00
+    [charge] => AUTO
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Julio Fainzilber
+            [email] => yoel_israel@yahoo.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 33615951
+                )
+
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA TALMUD THORA
+                    [number] => 238
+                    [complement] => ap 72
+                    [district] => Bom Retiro
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 01126020
+                )
+
+        )
+
+)

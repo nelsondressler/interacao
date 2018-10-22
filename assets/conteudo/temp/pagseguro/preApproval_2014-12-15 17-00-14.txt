@@ -1,0 +1,38 @@
+SimpleXMLElement Object
+(
+    [name] => Assinatura do plano: Plano Luz
+    [code] => 6F7A61E60202581774FEDFB4D96B0BED
+    [date] => 2014-12-15T16:53:37.000-02:00
+    [tracker] => 7B5609
+    [status] => PENDING
+    [reference] => assinatura-96g2w2g243d2t2q2r2t2x2u2w2r2c2l2c2m4e2f4p333r2n3t4
+    [lastEventDate] => 2014-12-15T16:59:52.000-02:00
+    [charge] => AUTO
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Comprador de Testes
+            [email] => c42888601315962057368@sandbox.pagseguro.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 99999999
+                )
+
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA TALMUD THORA
+                    [number] => 296
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Bom Retiro
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 01126020
+                )
+
+        )
+
+)

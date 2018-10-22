@@ -1,0 +1,41 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />.texto_1 {
+  color: #666666;
+  font-size: 11px;
+  font-family: verdana;
+  line-height: 15px;
+}
+
+.texto_2 {
+  color: #A69168;
+  font-size: 11px;
+  font-family: verdana;
+  line-height: 19px;
+}
+
+.texto_3 {
+  color: #927f59;
+  font-size: 11px;
+  font-weight: bold;
+  font-family: Verdana;
+}
+
+.titulo_1 {
+  color: #675A38;
+  font-size: 11px;
+  font-weight: bold;
+  font-family: Verdana;
+}
+
+.titulo_2 {
+  color: #333333;
+  font-size: 12px;
+  font-weight: normal;
+  font-family: Verdana;
+}
+
+.titulo_3 {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Verdana;
+  color: #990000;
+}

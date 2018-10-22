@@ -1,0 +1,67 @@
+SimpleXMLElement Object
+(
+    [date] => 2015-06-17T14:32:46.000-03:00
+    [code] => B053D5E9-194D-4F29-B340-91F19327B545
+    [reference] => 999999-1434562183
+    [type] => 11
+    [status] => 4
+    [lastEventDate] => 2015-07-17T14:38:04.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 101
+        )
+
+    [grossAmount] => 1.00
+    [discountAmount] => 0.00
+    [feeAmount] => 0.44
+    [netAmount] => 0.56
+    [escrowEndDate] => 2015-07-17T14:32:55.000-03:00
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 001
+                    [description] => Teste de assinatura
+                    [quantity] => 1
+                    [amount] => 1.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => CRISTIANO P PRATES
+            [email] => c.prates@yahoo.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 41
+                    [number] => 33620869
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Rua Professora Dorotea Spak Choma
+                    [number] => 200
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => PR
+                    [city] => Curitiba
+                    [state] => PR
+                    [country] => BRA
+                    [postalCode] => 82530370
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)

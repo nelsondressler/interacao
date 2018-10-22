@@ -1,0 +1,16 @@
+{2015/01/22 22:43:11} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'pagamento-1065',
+  'SenderEmail' => 'null',
+)) - begin 
+{2015/01/22 22:43:12} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'pagamento-1065',
+  'SenderEmail' => 'null',
+)) - end {1}27A66A045858F55AA4567F974DD34EFB 
+{2015/01/26 16:30:39} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'pagamento-1123',
+  'SenderEmail' => 'null',
+)) - begin 
+{2015/01/26 16:30:40} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'pagamento-1123',
+  'SenderEmail' => 'null',
+)) - end {1}871170E28181AE8FF4982FB523C53DB0 

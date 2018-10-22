@@ -1,0 +1,68 @@
+.area_editor * .e_conteudo1 {
+  color: #8A6D20;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 22px;
+  text-align: justify;
+}
+
+.area_editor * .e_conteudo2 {
+    color: #375F90;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.area_editor * .e_conteudo3 {
+  color: #375F90;
+  font-family: 'Oswald',sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.area_editor * .e_conteudo4 {
+    color: #D6B04E;
+    font-family: 'Oswald',sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.area_editor * em {
+  font-style: italic;
+}
+
+.area_editor * img[align=left] {
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.area_editor * img[align=right] {
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.area_editor ul, 
+.area_editor ul li, 
+.area_editor ol {
+  list-style-position: inside !important;
+}
+
+.area_editor ul  {
+  list-style: disc !important;
+}
+
+.area_editor ul, 
+.area_editor ul li  {
+  list-style: inherit !important;
+}
+
+.area_editor ol  {
+  list-style: decimal !important;
+}
+
+.area_editor .flexslider * ul,
+.area_editor .flexslider * li {
+  list-style: none !important;;
+}
+   

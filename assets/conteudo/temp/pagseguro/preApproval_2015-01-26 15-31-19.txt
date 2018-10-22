@@ -1,0 +1,38 @@
+SimpleXMLElement Object
+(
+    [name] => Assinatura do plano: Plano Férias
+    [code] => 0BD57F82F4F410BEE4E48FB9C29F41BE
+    [date] => 2015-01-26T15:26:48.000-02:00
+    [tracker] => 505E33
+    [status] => ACTIVE
+    [reference] => assinatura-96g2w2g243d2s2q2r213p2u2w2r2c2l2c2m4e2f4p333x2n3t4
+    [lastEventDate] => 2015-01-26T15:31:07.000-02:00
+    [charge] => AUTO
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => CRISTIANO P PRATES
+            [email] => c.prates@yahoo.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 41
+                    [number] => 33620869
+                )
+
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA PROFESSORA DOROTEA SPAK CHOMA
+                    [number] => 200
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Tarumã
+                    [city] => CURITIBA
+                    [state] => PR
+                    [country] => BRA
+                    [postalCode] => 82530370
+                )
+
+        )
+
+)

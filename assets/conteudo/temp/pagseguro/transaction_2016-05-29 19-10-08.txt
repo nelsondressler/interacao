@@ -1,0 +1,34 @@
+SimpleXMLElement Object
+(
+    [date] => 2016-05-29T19:10:05.000-03:00
+    [code] => 55C1D7FC-9B9E-4112-8D96-D2F22DA66791
+    [type] => 1
+    [status] => 3
+    [lastEventDate] => 2016-05-29T19:10:06.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 101
+        )
+
+    [grossAmount] => 18.00
+    [discountAmount] => 0.00
+    [feeAmount] => 0.81
+    [netAmount] => 17.19
+    [extraAmount] => 0.00
+    [escrowEndDate] => 2016-06-28T19:10:05.000-03:00
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 1
+                    [description] => Venda pelo celular digitada
+                    [quantity] => 1
+                    [amount] => 18.00
+                )
+
+        )
+
+)

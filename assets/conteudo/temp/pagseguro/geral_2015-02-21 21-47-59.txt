@@ -1,0 +1,67 @@
+SimpleXMLElement Object
+(
+    [date] => 2015-01-22T21:40:25.000-02:00
+    [code] => B3B31F07-E459-4896-927C-02D2CA1EC461
+    [reference] => assinatura-96g2w2g243d2t2q2r2t2x2u2w2r2c2l2c2m4e2f4p333w2n3t4
+    [type] => 11
+    [status] => 4
+    [lastEventDate] => 2015-02-21T21:47:58.000-02:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 101
+        )
+
+    [grossAmount] => 1.00
+    [discountAmount] => 0.00
+    [feeAmount] => 0.44
+    [netAmount] => 0.56
+    [escrowEndDate] => 2015-02-21T21:40:29.000-02:00
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 001
+                    [description] => Assinatura do plano: Plano Luz
+                    [quantity] => 1
+                    [amount] => 1.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => CRISTIANO P PRATES
+            [email] => c.prates@yahoo.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 41
+                    [number] => 33620869
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA PROFESSORA DOROTEA SPAK CHOMA
+                    [number] => 200
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Tarumã
+                    [city] => CURITIBA
+                    [state] => PR
+                    [country] => BRA
+                    [postalCode] => 82530370
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)

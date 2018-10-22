@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Styles>
+
+  <Style name="Estilo 1" element="span">
+    <Attribute name="class" value="e_conteudo1" />
+  </Style>
+  
+  <Style name="Estilo 2" element="span">
+    <Attribute name="class" value="e_conteudo2" />
+  </Style>
+  
+  <Style name="Estilo 3" element="span">
+    <Attribute name="class" value="e_conteudo3" />
+  </Style>
+  
+  <Style name="Estilo 4" element="span">
+    <Attribute name="class" value="e_conteudo4" />
+  </Style>
+  
+</Styles>

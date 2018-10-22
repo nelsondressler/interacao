@@ -1,0 +1,64 @@
+SimpleXMLElement Object
+(
+    [date] => 2015-02-19T03:16:46.000-02:00
+    [code] => B8DAA560-35B8-4D85-9B72-FD804DB5EB5A
+    [reference] => assinatura-96g2w2g243d2u2q2v2x2n2w2w2d2m2b2n4b223r3b4y2b266
+    [type] => 11
+    [status] => 7
+    [cancellationSource] => EXTERNAL
+    [lastEventDate] => 2015-02-19T03:17:05.000-02:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 101
+        )
+
+    [grossAmount] => 54.00
+    [discountAmount] => 0.00
+    [feeAmount] => 2.55
+    [netAmount] => 51.45
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 001
+                    [description] => Assinatura do plano: Plano Arte
+                    [quantity] => 1
+                    [amount] => 54.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Marcos Zeev Begun
+            [email] => moti@lubavitch.org.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 30819798
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA JOSE MARIA LISBOA
+                    [number] => 1060
+                    [complement] => Apt 81
+                    [district] => Jardim Paulista
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 01423001
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)

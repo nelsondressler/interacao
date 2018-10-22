@@ -1,0 +1,6 @@
+SimpleXMLElement Object
+(
+    [reference] => assinatura-96g2w2g243d2s2q2r213p2u2w2r2c2l2c2m4e2f4p333x2n3t4
+    [status] => 3
+    [code] => 4F7C4B46-CE7A-400B-BDF0-559615655B6E
+)

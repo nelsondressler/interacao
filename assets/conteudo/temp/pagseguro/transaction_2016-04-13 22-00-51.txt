@@ -1,0 +1,64 @@
+SimpleXMLElement Object
+(
+    [date] => 2016-04-13T22:00:40.000-03:00
+    [code] => 6E257F9B-A432-4156-AB37-FD791A102F2C
+    [reference] => assinatura-96g2w2g243d2u2q2v2x2n2w2w2d2m2b2n4b223r3c4y2b266
+    [type] => 11
+    [status] => 3
+    [lastEventDate] => 2016-04-13T22:00:49.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 102
+        )
+
+    [grossAmount] => 54.00
+    [discountAmount] => 0.00
+    [feeAmount] => 2.55
+    [netAmount] => 51.45
+    [escrowEndDate] => 2016-05-13T22:00:49.000-03:00
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 001
+                    [description] => Assinatura do plano: Plano Arte
+                    [quantity] => 1
+                    [amount] => 54.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => marcel neumann
+            [email] => mn180@hotmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 973101234
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA DOUTOR BRASILIO MACHADO
+                    [number] => 299
+                    [complement] => apt 20
+                    [district] => Santa Cecília
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 01230010
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)

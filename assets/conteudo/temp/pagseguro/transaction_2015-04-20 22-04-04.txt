@@ -1,0 +1,80 @@
+SimpleXMLElement Object
+(
+    [date] => 2015-03-21T22:01:13.000-03:00
+    [code] => 3B9B67E5-873D-46F9-8D31-7D0FB9F1083E
+    [reference] => assinatura-96g2w2g243d2u2q2v2x2n2w2w2d2m2b2n4b223r3b413b266
+    [type] => 11
+    [status] => 4
+    [lastEventDate] => 2015-04-20T22:04:02.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 101
+        )
+
+    [grossAmount] => 54.00
+    [discountAmount] => 0.00
+    [feeAmount] => 2.55
+    [netAmount] => 51.45
+    [escrowEndDate] => 2015-04-20T22:01:20.000-03:00
+    [installmentCount] => 1
+    [paymentReleases] => SimpleXMLElement Object
+        (
+            [paymentRelease] => SimpleXMLElement Object
+                (
+                    [installment] => 1
+                    [totalAmount] => 51.45
+                    [releaseAmount] => 51.45
+                    [status] => RELEASED
+                    [releaseDate] => 2015-04-20T22:01:20-03:00
+                )
+
+        )
+
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 001
+                    [description] => Assinatura do plano: Plano Arte
+                    [quantity] => 1
+                    [amount] => 54.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Flora M Levaton
+            [email] => yflevaton@gmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 37218454
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA JOSE RUBENS
+                    [number] => 175
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Caxingui
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 05515000
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)

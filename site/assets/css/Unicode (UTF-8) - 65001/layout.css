@@ -1,0 +1,69 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />@CHARSET "ISO-8859-1";
+
+/*
+CSS para o layout principal
+*/
+
+body {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+#principal {
+  width: 980px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+  border: 0px solid #ff0000;
+}
+
+#topo {
+  float: left;
+  width: 980px;
+  height: 58px;
+  border: 0px solid #cccccc;
+}
+
+#topo_barra {
+  float: left;
+  background-image: url('../img/topo_barra.gif');
+  background-repeat: no-repeat;
+  width: 980px;
+  height: 42px;
+  border: 0px solid #cccccc;
+}
+
+#meio {
+  float: left;
+  width: 980px;
+  border: 0px solid #f0f8ff;
+  margin-top: 8px;
+}
+
+
+#menu_lateral {
+  float: left;
+  width: 180px;
+  border: 0x solid #808080;
+}
+
+#conteudo {
+  float: left;
+  width: 783px;
+  margin-top: 0px;
+  margin-left: 15px;
+  border: 0px solid #5F9EA0;
+  text-align: left;
+}
+
+#rodape{
+  float: left;
+  width: 980px;
+  height: 24px;
+  background-image: url('../img/rodape.gif');
+  background-repeat: no-repeat;
+  margin-top: 15px;
+  border: 0px solid #cccccc;
+}

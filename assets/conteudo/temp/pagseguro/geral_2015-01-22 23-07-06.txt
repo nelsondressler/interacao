@@ -1,0 +1,38 @@
+SimpleXMLElement Object
+(
+    [name] => Assinatura dos planos: Plano Férias, Plano Luz
+    [code] => 82D0F006F1F16D2334BB5F93B95CD2C4
+    [date] => 2015-01-22T21:20:35.000-02:00
+    [tracker] => CA4F0A
+    [status] => CANCELLED_BY_RECEIVER
+    [reference] => assinatura-96g2w2g243d2s2q2r213p2u2w2r2c2l2c2q2e2f4p3y2m224o23334r264a2z3a2t4r3c4c21333n325
+    [lastEventDate] => 2015-01-22T23:06:50.000-02:00
+    [charge] => AUTO
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => CRISTIANO P PRATES
+            [email] => c.prates@yahoo.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 41
+                    [number] => 33620869
+                )
+
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA PROFESSORA DOROTEA SPAK CHOMA
+                    [number] => 200
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Tarumã
+                    [city] => CURITIBA
+                    [state] => PR
+                    [country] => BRA
+                    [postalCode] => 82530370
+                )
+
+        )
+
+)

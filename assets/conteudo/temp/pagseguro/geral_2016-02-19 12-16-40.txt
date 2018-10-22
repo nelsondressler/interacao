@@ -1,0 +1,9 @@
+SimpleXMLElement Object
+(
+    [error] => SimpleXMLElement Object
+        (
+            [code] => 13021
+            [message] => the requested operation does not support the requested transaction because it's status is: DONATION
+        )
+
+)

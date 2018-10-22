@@ -1,0 +1,6 @@
+Array
+(
+    [transacao_id] => 28536232
+    [pedido] => 797
+    [status] => Aprovada
+)

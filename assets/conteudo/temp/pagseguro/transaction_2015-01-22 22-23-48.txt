@@ -1,0 +1,67 @@
+SimpleXMLElement Object
+(
+    [date] => 2015-01-22T21:01:34.000-02:00
+    [code] => 592E04B9-4504-4E8B-98E2-593D904FF819
+    [reference] => assinatura-96g2w2g243d2u2q2v2x2n2w2w2d2m2b2n4b223r3b423b266
+    [type] => 11
+    [status] => 3
+    [lastEventDate] => 2015-01-22T21:01:38.000-02:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 102
+        )
+
+    [grossAmount] => 1.00
+    [discountAmount] => 0.00
+    [feeAmount] => 0.44
+    [netAmount] => 0.56
+    [escrowEndDate] => 2015-02-21T21:01:38.000-02:00
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 001
+                    [description] => Assinatura do plano: Plano Arte
+                    [quantity] => 1
+                    [amount] => 1.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => CRISTIANO P PRATES
+            [email] => c.prates@yahoo.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 41
+                    [number] => 33620869
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA PROFESSORA DOROTEA SPAK CHOMA
+                    [number] => 200
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Tarumã
+                    [city] => CURITIBA
+                    [state] => PR
+                    [country] => BRA
+                    [postalCode] => 82530370
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)

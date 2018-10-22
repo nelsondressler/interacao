@@ -1,0 +1,38 @@
+SimpleXMLElement Object
+(
+    [name] => Teste de assinatura 2
+    [code] => 5EAEB8CD1313B81774975F9C19EE0A1A
+    [date] => 2015-06-17T14:30:23.000-03:00
+    [tracker] => A70F9B
+    [status] => CANCELLED_BY_SENDER
+    [reference] => 999998-1434562221
+    [lastEventDate] => 2015-07-06T22:11:22.000-03:00
+    [charge] => AUTO
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => CRISTIANO P PRATES
+            [email] => c.prates@yahoo.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 41
+                    [number] => 33620869
+                )
+
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Rua Professora Dorotea Spak Choma
+                    [number] => 200
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => PR
+                    [city] => Curitiba
+                    [state] => PR
+                    [country] => BRA
+                    [postalCode] => 82530370
+                )
+
+        )
+
+)

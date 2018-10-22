@@ -1,0 +1,35 @@
+SimpleXMLElement Object
+(
+    [name] => Charidy 2017
+    [code] => EAF401B52121CAD664DD4F9053306F62
+    [date] => 2017-07-26T10:21:10-03:00
+    [tracker] => 843625
+    [status] => ACTIVE
+    [reference] => 843625
+    [lastEventDate] => 2017-07-26T12:26:37-03:00
+    [charge] => AUTO
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => REUBEN HAMOUI
+            [email] => rhamoui@gmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 38283883
+                )
+
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA MANGABEIRAS
+                    [number] => 150
+                    [complement] => AP 21
+                    [district] => Santa Cecília
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 01233010
+                )
+
+        )
+
+)

@@ -1,0 +1,63 @@
+SimpleXMLElement Object
+(
+    [date] => 2017-07-26T10:22:02.000-03:00
+    [code] => 93235206-D599-4E2E-B337-C68DD03ECF1C
+    [reference] => 843625
+    [type] => 11
+    [status] => 2
+    [lastEventDate] => 2017-07-26T10:22:09.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 102
+        )
+
+    [grossAmount] => 650.00
+    [discountAmount] => 0.00
+    [feeAmount] => 26.34
+    [netAmount] => 623.66
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 001
+                    [description] => Charidy 2017
+                    [quantity] => 1
+                    [amount] => 650.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => REUBEN HAMOUI
+            [email] => rhamoui@gmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 38283883
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA MANGABEIRAS
+                    [number] => 150
+                    [complement] => AP 21
+                    [district] => Santa Cecília
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 01233010
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)

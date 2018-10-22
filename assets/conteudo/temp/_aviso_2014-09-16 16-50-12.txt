@@ -1,0 +1,6 @@
+Array
+(
+    [transacao_id] => 28039099
+    [pedido] => 868
+    [status] => Em andamento
+)

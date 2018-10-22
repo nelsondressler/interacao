@@ -1,0 +1,78 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />@CHARSET "ISO-8859-1";
+
+/*
+CSS para a lista do menu
+*/
+
+#menu_topo {
+  width: 180px;
+  height: 5px;
+  background-image: url('../img/menu_topo.gif');
+  background-repeat: no-repeat;
+}
+
+#menu_meio {
+  width: 180px;
+  background-image: url('../img/menu_meio.gif');
+  background-repeat: repeat;
+}
+
+#menu_rodape {
+  width: 180px;
+  height: 5px;
+  background-image: url('../img/menu_rodape.gif');
+  background-repeat: no-repeat;
+  margin-bottom: 10px;
+}
+
+#menu_titulo {
+  color: #666666;
+  font: bold 14px Arial;
+  margin-bottom: 5px;
+  margin-left: 8px;
+}
+
+#menu_lista {
+  width: 176 px;
+  padding: 0;
+  margin: 0;
+  margin-left: 8px;
+  font: 12px Arial;
+}
+
+#menu_lista ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#menu_lista li {
+  margin: 0;
+  padding: 2px;
+  list-style: outside url('../img/menu_marcador.gif');
+  margin-left: 15px;
+}
+
+#menu_lista li a:hover {
+  color: #003366;
+  text-decoration: underline;
+}
+
+#menu_lista li a {
+  color: #333333;
+  text-decoration: none;
+}
+
+#menu_lista .divisor {
+  color: #666;
+  text-decoration: none;
+  font-family: arial;
+  font-size: 10px;
+  text-transform:uppercase;
+  padding-bottom: 2px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 8px;
+  border-bottom: 1px dotted #666;
+  
+}

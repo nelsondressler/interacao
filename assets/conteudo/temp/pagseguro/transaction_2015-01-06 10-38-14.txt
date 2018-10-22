@@ -1,0 +1,67 @@
+SimpleXMLElement Object
+(
+    [date] => 2015-01-06T10:34:28.000-02:00
+    [code] => AA81E3F2-678C-4A72-B29C-229ABA58B388
+    [reference] => assinatura-96g2w2g243d2s2q2r213p2u2w2r2c2l2c2q2e2f4p3y2m224o23334r264a2z3a2t4r3c4c213w2n325
+    [type] => 11
+    [status] => 3
+    [lastEventDate] => 2015-01-06T10:38:09.000-02:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 101
+        )
+
+    [grossAmount] => 277.20
+    [discountAmount] => 0.00
+    [feeAmount] => 11.46
+    [netAmount] => 265.74
+    [escrowEndDate] => 2015-02-05T10:38:09.000-02:00
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 001
+                    [description] => Assinatura dos planos: Plano Férias, Plano Luz
+                    [quantity] => 1
+                    [amount] => 277.20
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Comprador de Testes
+            [email] => c42888601315962057368@sandbox.pagseguro.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 99999999
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA TALMUD THORA
+                    [number] => 296
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Bom Retiro
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 01126020
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)

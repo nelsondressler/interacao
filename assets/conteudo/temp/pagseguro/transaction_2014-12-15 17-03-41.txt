@@ -1,0 +1,67 @@
+SimpleXMLElement Object
+(
+    [date] => 2014-12-15T16:59:47.000-02:00
+    [code] => 26F6917E-2DEC-408E-A65B-E4C6F15A53BE
+    [reference] => assinatura-96g2w2g243d2t2q2r2t2x2u2w2r2c2l2c2m4e2f4p333r2n3t4
+    [type] => 11
+    [status] => 3
+    [lastEventDate] => 2014-12-15T17:03:35.000-02:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 101
+        )
+
+    [grossAmount] => 108.00
+    [discountAmount] => 0.00
+    [feeAmount] => 4.71
+    [netAmount] => 103.29
+    [escrowEndDate] => 2015-01-14T17:03:35.000-02:00
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 001
+                    [description] => Assinatura do plano: Plano Luz
+                    [quantity] => 1
+                    [amount] => 108.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Comprador de Testes
+            [email] => c42888601315962057368@sandbox.pagseguro.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 99999999
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA TALMUD THORA
+                    [number] => 296
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Bom Retiro
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 01126020
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)

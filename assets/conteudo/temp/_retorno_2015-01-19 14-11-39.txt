@@ -1,0 +1,4 @@
+Array
+(
+    [PHPSESSID] => 6f41rc9l38i9fpi1bfl9kfqau4
+)

@@ -1,0 +1,6 @@
+Array
+(
+    [transacao_id] => 27769250
+    [pedido] => 556
+    [status] => Cancelada
+)

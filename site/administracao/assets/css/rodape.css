@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+#rodape_esquerdo {
+  float: left;
+  width: 780px;
+  height: 24px;
+}
+
+#rodape_direito {
+  float: left;
+  width: 200px;
+  height: 24px;
+  color: #ffffff;
+  font: 10px Verdana;
+  margin-top: 5px;
+}
+
+#rodape_texto {
+  color: #ffffff;
+  font: 10px Verdana;
+  margin-top: 5px;
+  margin-left: 10px;  
+}

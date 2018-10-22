@@ -1,0 +1,64 @@
+SimpleXMLElement Object
+(
+    [date] => 2015-11-16T23:51:33.000-02:00
+    [code] => 4AD862EE-2ECA-40D5-B506-DD4FE8D07C45
+    [reference] => assinatura-96g2w2g243d2u2q2v2x2n2w2w2d2m2b2n4b223r3c4z2b266
+    [type] => 11
+    [status] => 7
+    [cancellationSource] => INTERNAL
+    [lastEventDate] => 2015-11-16T23:51:40.000-02:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 102
+        )
+
+    [grossAmount] => 54.00
+    [discountAmount] => 0.00
+    [feeAmount] => 2.55
+    [netAmount] => 51.45
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 001
+                    [description] => Assinatura do plano: Plano Arte
+                    [quantity] => 1
+                    [amount] => 54.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Julio Fainzilber
+            [email] => yoel_israel@yahoo.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 33615951
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA TALMUD THORA
+                    [number] => 238
+                    [complement] => ap 72
+                    [district] => Bom Retiro
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 01126020
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)

@@ -1,0 +1,38 @@
+SimpleXMLElement Object
+(
+    [name] => Assinatura do plano: Plano Arte
+    [code] => 5A056BE4A7A7834FF4589FBCFCE06B72
+    [date] => 2015-01-21T15:02:52.000-02:00
+    [tracker] => CD5CF7
+    [status] => CANCELLED_BY_RECEIVER
+    [reference] => assinatura-96g2w2g243d2u2q2v2x2n2w2w2d2m2b2n4b223r3b413b266
+    [lastEventDate] => 2015-04-21T10:26:09.000-03:00
+    [charge] => AUTO
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Flora M Levaton
+            [email] => yflevaton@gmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 11
+                    [number] => 37218454
+                )
+
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => RUA JOSE RUBENS
+                    [number] => 175
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Caxingui
+                    [city] => SAO PAULO
+                    [state] => SP
+                    [country] => BRA
+                    [postalCode] => 05515000
+                )
+
+        )
+
+)
