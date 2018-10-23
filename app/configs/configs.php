@@ -18,7 +18,8 @@ define('DB_PORT', '3306');
 
 define('DB_USERNAME', 'root');
 
-define('DB_PASSWORD', '');
+//define('DB_PASSWORD', ''); //XAMPP (PHP 5.6)
+define('DB_PASSWORD', 'adm123'); //Bitnami WAMP Stack (PHP 7)
 
 define('DB_DATABASE', 'lubavitch1');
 
